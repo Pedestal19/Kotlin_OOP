@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36a06006-4edc-4d17-9039-c67a60055e83" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ClassInheritance.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SimpleClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleClass.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SimpleClass.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SimpleClass.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SimpleClass.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="565">
               <caret line="50" column="77" selection-start-line="50" selection-start-column="77" selection-end-line="50" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClassInheritance.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ClassInheritance.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -43,6 +52,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/SimpleClass.kt" />
+        <option value="$PROJECT_DIR$/src/ClassInheritance.kt" />
       </list>
     </option>
   </component>
@@ -72,6 +82,11 @@
             <path>
               <item name="Kotlin_OOP" type="b2602c69:ProjectViewProjectNode" />
               <item name="Kotlin_OOP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_OOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kotlin_OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -105,7 +120,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.ClassInheritanceKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -124,6 +139,16 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="ClassInheritanceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin_OOP" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ClassInheritanceKt" />
+      <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="SimpleClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_OOP" />
@@ -157,8 +182,13 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Kotlin.SimpleClassKt" />
+      <item itemvalue="Kotlin.ClassInheritanceKt" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ClassInheritanceKt" />
         <item itemvalue="Kotlin.SimpleClassKt" />
       </list>
     </recent_temporary>
@@ -175,12 +205,12 @@
       <updated>1583704956724</updated>
       <workItem from="1583704961053" duration="1123000" />
       <workItem from="1583777551301" duration="29000" />
-      <workItem from="1583783391083" duration="1842000" />
+      <workItem from="1583783391083" duration="2998000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2994000" />
+    <option name="totallyTimeSpent" value="4150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1940" height="1100" extended-state="0" />
@@ -206,9 +236,9 @@
       <window_info anchor="right" id="TCPMON" order="3" />
       <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3116615" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3116615" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24787234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24787234" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Flutter Inspector" order="3" />
@@ -245,6 +275,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="565">
           <caret line="50" column="77" selection-start-line="50" selection-start-column="77" selection-end-line="50" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClassInheritance.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
