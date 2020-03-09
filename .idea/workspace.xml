@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36a06006-4edc-4d17-9039-c67a60055e83" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ClassInheritance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClassInheritance.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Overriding.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +27,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClassInheritance.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ClassInheritance.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ClassInheritance.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-336">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            <state relative-caret-position="527">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Overriding.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Overriding.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -52,6 +62,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/SimpleClass.kt" />
         <option value="$PROJECT_DIR$/src/ClassInheritance.kt" />
+        <option value="$PROJECT_DIR$/src/Overriding.kt" />
       </list>
     </option>
   </component>
@@ -119,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ClassInheritanceKt">
+  <component name="RunManager" selected="Kotlin.OverridingKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -147,6 +158,16 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="ClassInheritanceKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="OverridingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin_OOP" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="OverridingKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="SimpleClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -184,9 +205,11 @@
     <list>
       <item itemvalue="Kotlin.SimpleClassKt" />
       <item itemvalue="Kotlin.ClassInheritanceKt" />
+      <item itemvalue="Kotlin.OverridingKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.OverridingKt" />
         <item itemvalue="Kotlin.ClassInheritanceKt" />
         <item itemvalue="Kotlin.SimpleClassKt" />
       </list>
@@ -204,12 +227,12 @@
       <updated>1583704956724</updated>
       <workItem from="1583704961053" duration="1123000" />
       <workItem from="1583777551301" duration="29000" />
-      <workItem from="1583783391083" duration="3988000" />
+      <workItem from="1583783391083" duration="4604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5140000" />
+    <option name="totallyTimeSpent" value="5756000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1940" height="1100" extended-state="0" />
@@ -279,8 +302,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ClassInheritance.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-336">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        <state relative-caret-position="527">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Overriding.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
         </state>
       </provider>
     </entry>
