@@ -41,6 +41,9 @@ fun main(args:Array<String>){
     println("sum: "+ sum)
     div = op2.div(12,11)
     println("div: "+div)
-
+    var mult=op2.mult(10, 15)
+    println("multi: "+ mult)
+    var sub = op2.sub(12,11)
+    println("div: "+sub)
 
 }
