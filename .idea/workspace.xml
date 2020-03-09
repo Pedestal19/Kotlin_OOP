@@ -38,8 +38,8 @@
       <file leaf-file-name="Overriding.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Overriding.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="49" lean-forward="true" selection-start-line="55" selection-start-column="6" selection-end-line="58" selection-end-column="26" />
+            <state relative-caret-position="170">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -226,12 +226,12 @@
       <updated>1583704956724</updated>
       <workItem from="1583704961053" duration="1123000" />
       <workItem from="1583777551301" duration="29000" />
-      <workItem from="1583783391083" duration="5952000" />
+      <workItem from="1583783391083" duration="6569000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7104000" />
+    <option name="totallyTimeSpent" value="7721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1940" height="1100" extended-state="0" />
@@ -282,7 +282,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/Overriding.kt</url>
-          <line>42</line>
+          <line>48</line>
           <properties />
         </line-breakpoint>
       </breakpoints>
@@ -320,8 +320,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Overriding.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="49" lean-forward="true" selection-start-line="55" selection-start-column="6" selection-end-line="58" selection-end-column="26" />
+        <state relative-caret-position="170">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
         </state>
       </provider>
     </entry>

@@ -4,7 +4,7 @@
  *Date: 3/9/2020.
  */
 
-open class Operations1(){
+open class Operations1(Name:String){
     var ProcessName:String?=null
     open fun sum(n1:Int, n2:Int):Int{
         return n1+n2
@@ -15,13 +15,19 @@ open class Operations1(){
     }
 }
 
-class MultiOperations1():Operations1(){
+class MultiOperations1:Operations1{
 
-    /*constructor(): super(){
+    constructor(): super("Default"){
 
-    }*/
+    }
+
+    var t:Int?=null
 
     override fun sum(n1:Int, n2:Int):Int{
+        this.t=22               //calling var from this class
+        this.sub(1,2)  //calling fun from this class
+        super.div(4,1) //calling div from super--parent class
+        super.sum(6, 9)//calling sum from super--parent class
         return n1+n2*3
     }
 
@@ -40,7 +46,7 @@ class MultiOperations1():Operations1(){
 
 fun main(args:Array<String>){
 
-    var op = Operations1()
+    var op = Operations1("Pedestal")
     var sum=op.sum(10,15)
     println("sum: "+ sum)
     var div = op.div(12,11)
