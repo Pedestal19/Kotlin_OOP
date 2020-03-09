@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36a06006-4edc-4d17-9039-c67a60055e83" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Overriding.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Overriding.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Overriding.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,8 +38,8 @@
       <file leaf-file-name="Overriding.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Overriding.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            <state relative-caret-position="340">
+              <caret line="49" lean-forward="true" selection-start-line="55" selection-start-column="6" selection-end-line="58" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -227,12 +226,12 @@
       <updated>1583704956724</updated>
       <workItem from="1583704961053" duration="1123000" />
       <workItem from="1583777551301" duration="29000" />
-      <workItem from="1583783391083" duration="4604000" />
+      <workItem from="1583783391083" duration="5952000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5756000" />
+    <option name="totallyTimeSpent" value="7104000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1940" height="1100" extended-state="0" />
@@ -249,7 +248,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993808" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32920536" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
@@ -277,6 +276,18 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Overriding.kt</url>
+          <line>42</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/SimpleClass.kt">
@@ -309,8 +320,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Overriding.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        <state relative-caret-position="340">
+          <caret line="49" lean-forward="true" selection-start-line="55" selection-start-column="6" selection-end-line="58" selection-end-column="26" />
         </state>
       </provider>
     </entry>
