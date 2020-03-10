@@ -51,11 +51,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleAbstract.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SimpleAbstract.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SimpleAbstract.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
               <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="enumsDemo.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/enumsDemo.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Generics.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Generics.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -80,6 +98,8 @@
         <option value="$PROJECT_DIR$/src/Overriding.kt" />
         <option value="$PROJECT_DIR$/src/ClassInterface.kt" />
         <option value="$PROJECT_DIR$/src/SimpleAbstract.kt" />
+        <option value="$PROJECT_DIR$/src/enumsDemo.kt" />
+        <option value="$PROJECT_DIR$/src/Generics.kt" />
       </list>
     </option>
   </component>
@@ -148,7 +168,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.EnumsDemoKt">
+  <component name="RunManager" selected="Kotlin.GenericsKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -168,16 +188,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ClassInheritanceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin_OOP" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ClassInheritanceKt" />
-      <option name="WORKING_DIRECTORY" />
-    </configuration>
     <configuration name="ClassInterfaceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_OOP" />
       <option name="VM_PARAMETERS" />
@@ -196,6 +206,16 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="EnumsDemoKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="GenericsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin_OOP" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="GenericsKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="OverridingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -241,19 +261,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.ClassInheritanceKt" />
       <item itemvalue="Kotlin.OverridingKt" />
       <item itemvalue="Kotlin.ClassInterfaceKt" />
       <item itemvalue="Kotlin.SimpleAbstractKt" />
       <item itemvalue="Kotlin.EnumsDemoKt" />
+      <item itemvalue="Kotlin.GenericsKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.GenericsKt" />
         <item itemvalue="Kotlin.EnumsDemoKt" />
         <item itemvalue="Kotlin.SimpleAbstractKt" />
         <item itemvalue="Kotlin.ClassInterfaceKt" />
         <item itemvalue="Kotlin.OverridingKt" />
-        <item itemvalue="Kotlin.ClassInheritanceKt" />
       </list>
     </recent_temporary>
   </component>
@@ -269,15 +289,16 @@
       <updated>1583704956724</updated>
       <workItem from="1583704961053" duration="1123000" />
       <workItem from="1583777551301" duration="29000" />
-      <workItem from="1583783391083" duration="9873000" />
+      <workItem from="1583783391083" duration="10519000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11025000" />
+    <option name="totallyTimeSpent" value="11671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1932" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -378,6 +399,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/enumsDemo.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Generics.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>
