@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36a06006-4edc-4d17-9039-c67a60055e83" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ClassInterface.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="36a06006-4edc-4d17-9039-c67a60055e83" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,11 +42,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClassInterface.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ClassInterface.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ClassInterface.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+            <state relative-caret-position="425">
+              <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleAbstract.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SimpleAbstract.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -73,6 +79,7 @@
         <option value="$PROJECT_DIR$/src/ClassInheritance.kt" />
         <option value="$PROJECT_DIR$/src/Overriding.kt" />
         <option value="$PROJECT_DIR$/src/ClassInterface.kt" />
+        <option value="$PROJECT_DIR$/src/SimpleAbstract.kt" />
       </list>
     </option>
   </component>
@@ -86,8 +93,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1940" />
-    <option name="height" value="1100" />
+    <option name="x" value="-7" />
+    <option name="width" value="1932" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -140,7 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ClassInterfaceKt">
+  <component name="RunManager" selected="Kotlin.SimpleAbstractKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -190,6 +198,16 @@
       <option name="MAIN_CLASS_NAME" value="OverridingKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
+    <configuration name="SimpleAbstractKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin_OOP" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="SimpleAbstractKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
     <configuration name="SimpleClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_OOP" />
       <option name="VM_PARAMETERS" />
@@ -227,9 +245,11 @@
       <item itemvalue="Kotlin.ClassInheritanceKt" />
       <item itemvalue="Kotlin.OverridingKt" />
       <item itemvalue="Kotlin.ClassInterfaceKt" />
+      <item itemvalue="Kotlin.SimpleAbstractKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SimpleAbstractKt" />
         <item itemvalue="Kotlin.ClassInterfaceKt" />
         <item itemvalue="Kotlin.OverridingKt" />
         <item itemvalue="Kotlin.ClassInheritanceKt" />
@@ -249,15 +269,15 @@
       <updated>1583704956724</updated>
       <workItem from="1583704961053" duration="1123000" />
       <workItem from="1583777551301" duration="29000" />
-      <workItem from="1583783391083" duration="8050000" />
+      <workItem from="1583783391083" duration="9102000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9202000" />
+    <option name="totallyTimeSpent" value="10254000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1940" height="1100" extended-state="0" />
+    <frame x="-7" y="0" width="1932" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -280,9 +300,9 @@
       <window_info anchor="right" id="TCPMON" order="3" />
       <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3116615" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32969433" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24787234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24893162" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Flutter Inspector" order="3" />
@@ -350,8 +370,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ClassInterface.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        <state relative-caret-position="425">
+          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimpleAbstract.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
         </state>
       </provider>
     </entry>
