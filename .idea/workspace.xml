@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36a06006-4edc-4d17-9039-c67a60055e83" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NestedClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,11 +63,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NestedClass.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NestedClass.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NestedClass.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="374">
+              <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Singleton.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Singleton.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -85,15 +95,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="enumsDemo.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/enumsDemo.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -134,6 +135,7 @@
         <option value="$PROJECT_DIR$/src/com/example/cars/MainClass.kt" />
         <option value="$PROJECT_DIR$/src/CallPackage.kt" />
         <option value="$PROJECT_DIR$/src/NestedClass.kt" />
+        <option value="$PROJECT_DIR$/src/Singleton.kt" />
       </list>
     </option>
   </component>
@@ -170,27 +172,6 @@
               <item name="Kotlin_OOP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Kotlin_OOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin_OOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kotlin_OOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin_OOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kotlin_OOP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin_OOP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="cars" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -223,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ExtensionsKt">
+  <component name="RunManager" selected="Kotlin.SingletonKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -242,16 +223,6 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
-    </configuration>
-    <configuration name="ClassInterfaceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin_OOP" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ClassInterfaceKt" />
-      <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="EnumsDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_OOP" />
@@ -293,6 +264,16 @@
       <option name="MAIN_CLASS_NAME" value="SimpleAbstractKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
+    <configuration name="SingletonKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin_OOP" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="SingletonKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -316,19 +297,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.ClassInterfaceKt" />
       <item itemvalue="Kotlin.SimpleAbstractKt" />
       <item itemvalue="Kotlin.EnumsDemoKt" />
       <item itemvalue="Kotlin.GenericsKt" />
       <item itemvalue="Kotlin.ExtensionsKt" />
+      <item itemvalue="Kotlin.SingletonKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SingletonKt" />
         <item itemvalue="Kotlin.ExtensionsKt" />
         <item itemvalue="Kotlin.GenericsKt" />
         <item itemvalue="Kotlin.EnumsDemoKt" />
         <item itemvalue="Kotlin.SimpleAbstractKt" />
-        <item itemvalue="Kotlin.ClassInterfaceKt" />
       </list>
     </recent_temporary>
   </component>
@@ -344,12 +325,12 @@
       <updated>1583704956724</updated>
       <workItem from="1583704961053" duration="1123000" />
       <workItem from="1583777551301" duration="29000" />
-      <workItem from="1583783391083" duration="13375000" />
+      <workItem from="1583783391083" duration="15128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14527000" />
+    <option name="totallyTimeSpent" value="16280000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1932" height="1047" extended-state="0" />
@@ -375,9 +356,9 @@
       <window_info anchor="right" id="TCPMON" order="3" />
       <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32969433" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32969433" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24893162" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24893162" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Flutter Inspector" order="3" />
@@ -501,8 +482,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/NestedClass.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="374">
+          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Singleton.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
